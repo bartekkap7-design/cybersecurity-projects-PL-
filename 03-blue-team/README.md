@@ -1,4 +1,4 @@
-#  Cybersecurity Projects — Portfolio (PL)
+#  Blue Team Portfolio (PL)
 
 Portfolio projektów z obszaru **Security Operations (SOC)**, **Detection Engineering**,
 **Incident Response** oraz **Governance, Risk & Compliance (GRC)**.
