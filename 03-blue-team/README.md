@@ -29,7 +29,7 @@ i reagowaniu na incydenty.
 | 1 | Analiza phishingu_1 | Incident Response | MITRE ATT&CK, NIST 800-61 | Analiza nagłówków, Python |
 | 2 | Polityki bezpieczeństwa_1| GRC | ISO/IEC 27001:2022 | — |
 | 3 | Ocena podatności_1 | Vulnerability Mgmt | CVSS, NIST 800-115 | OpenVAS, Nessus |
-| 4 | Detekcja Brute Force_1  | Detection Engineering | MITRE ATT&CK T1110 | Sysmon, Event Logs |
+| 4 | Raport incydentu Brute Force_1  | Detection Engineering | MITRE ATT&CK T1110 | Sysmon, Event Logs |
 
 
 ##  Prawa autorskie / Copyright
