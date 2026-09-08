@@ -30,6 +30,7 @@ i reagowaniu na incydenty.
 | 2 | Polityki_Bezpieczeństwa_1| GRC | ISO/IEC 27001:2022 | — |
 | 3 | Raport_Ocena_Podatności_1 | Vulnerability Mgmt | CVSS, NIST 800-115 | OpenVAS, Nessus |
 | 4 | Raport_Incydentu_Brute_Force_1  | Detection Engineering | MITRE ATT&CK T1110 | Sysmon, Event Logs |
+| 5 | Raport_SIEM_Splunk_Wdrażanie_Detekcji_1  | Detection Engineering | MITRE ATT&CK T1204, T1059  | Sysmon, Splunk |
 
 
 ##  Prawa autorskie / Copyright
