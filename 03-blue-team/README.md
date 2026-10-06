@@ -31,6 +31,8 @@ i reagowaniu na incydenty.
 | 3 | Raport_Ocena_Podatności_1 | Vulnerability Mgmt | CVSS, NIST 800-115 | OpenVAS, Nessus |
 | 4 | Raport_Incydentu_Brute_Force_1  | Detection Engineering | MITRE ATT&CK T1110 | Sysmon, Event Logs |
 | 5 | Raport_SIEM_Splunk_Wdrożenie_Detekcji_1  | Detection Engineering | MITRE ATT&CK T1204, T1059  | Sysmon, Splunk |
+| 6 | Raport_Wazuh_FIM_1  | Detection Engineering | - | XDR, EDR |
+
 
 
 ##  Prawa autorskie / Copyright
